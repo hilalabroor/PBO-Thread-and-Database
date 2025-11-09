@@ -32,7 +32,7 @@ PBO-THREAD-AND-DATABASE/
 ├── .vscode
 ├── bin
 ├── lib/
-│ └── mysql-connector-j-9.5.0.jar
+│   └── mysql-connector-j-9.5.0.jar
 │
 └── src/
     ├── App.java --> kelas utama
